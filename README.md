@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/26DoiqmYcxgFICb3G/giphy.gif" width="100%" height="100%">
+<img src="/assets/giphy.gif" width="100%" height="100%">
 
 
 ## Hello, I am Ahmed Emam

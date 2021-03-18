@@ -5,12 +5,12 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ahmedemam.ahmedemam)
 
-<a href="https://www.linkedin.com/in/ahmedhardworker">
+<a href="https://www.linkedin.com/in/ahmedhardworker"  target="_blank">
   <img align="left" style="padding: 5px;" alt="Ahmed Emam's Linkedin" width="30px" src="/assets/linkedin.png" />
 </a>
-<a href="https://medium.com/@ahmedabdelazizemam">
+<a href="https://medium.com/@ahmedabdelazizemam" target="_blank">
   <img align="left" style="padding: 5px;" alt="Ahmed Emam's Medium" width="30px" src="/assets/medium.png" />
 </a>
-<a href="https://stackoverflow.com/users/3099336/ahmedemam">
+<a href="https://stackoverflow.com/users/3099336/ahmedemam"  target="_blank">
   <img align="left" style="padding: 5px;" alt="Ahmed Emam's Stackoverflow" width="30px" src="/assets/stack-overflow.png" />
 </a>
